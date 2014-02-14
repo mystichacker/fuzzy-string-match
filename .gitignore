@@ -4,3 +4,12 @@
 /Rakefile~
 /VERSION.yml~
 /pkg
+.idea/.name
+.idea/.rakeTasks
+.idea/encodings.xml
+.idea/fuzzy-string-match.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
